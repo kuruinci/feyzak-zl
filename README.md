@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kuruinci
+- 👋 Hi, I’m @feyzak-zl
 - 👀 I’m interested in software, books and travel different places
 - 🌱 I’m currently learning python, english and korean
 - 📫 How to reach me ...
